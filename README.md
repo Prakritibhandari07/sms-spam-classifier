@@ -8,7 +8,7 @@ A Machine Learning web application that classifies SMS and email messages as **S
 
 🔗 **Try the App Here**
 
-https://rainfall-prediction-system-hz3uzddeyeamfbcgmktqup.streamlit.app/
+https://sms-spam-classifier-hz3uzddeyeamfbcgmktqup.streamlit.app/
 
 *(Replace this with your deployed Streamlit URL.)*
 
