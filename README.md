@@ -5,7 +5,7 @@ A Machine Learning web application that classifies SMS and email messages as **S
 ---
 
 ## 🚀 Live Demo
-
+Check out the deployed app here:
 https://sms-spam-classifier-hz3uzddeyeamfbcgmktqup.streamlit.app/
 
 ## 📌 Features
