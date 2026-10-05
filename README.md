@@ -1,5 +1,4 @@
 # SMS Spam Classifier
-
 An NLP-based spam classifier that predicts whether a message is spam or legitimate, with a confidence score. Available two ways: a Streamlit web app for interactive use, and a FastAPI REST API for programmatic access.
 
 ## Live Demos
